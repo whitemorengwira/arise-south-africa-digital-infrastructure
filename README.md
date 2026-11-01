@@ -1,3 +1,7 @@
+![Arise South Africa — N.White Systems engineering portfolio](assets/portfolio-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](https://github.com/whitemorengwira/nwhitesystems) · [N.White Systems](https://nwhite.systems/)
+
 # Arise South Africa — Production Engineering & Workflow Architecture
 ## Political · Integrated Multi-Channel Campaign & Platform · Corporate & Brand · Client: Arise South Africa
 
